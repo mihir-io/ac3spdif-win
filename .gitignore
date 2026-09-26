@@ -1,0 +1,5 @@
+build/
+*.spdif
+dist/
+vendor/.build-ffmpeg/
+vendor/ffmpeg/
